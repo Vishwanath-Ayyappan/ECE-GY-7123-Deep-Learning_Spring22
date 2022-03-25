@@ -25,16 +25,13 @@ Run all the files in the following order
 - ResNet.py
 - train.py
 - results.py
-
-'''sh
+```sh
 python3 model.py
-'''
- 
+```
 The model.py contains project1_model which can also be called to train the model. But to get results and plot, call
-'''sh
+```sh
 python3 results.py
-'''
-
+```
 If you are running in an interactive environment, you can simply run the model.py file.
 This works only if you have downloaded the necessary libraries and have the same version of libraries as this code.
 
