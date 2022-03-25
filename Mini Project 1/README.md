@@ -29,4 +29,6 @@ Run all the files in the following order
 If you are running in an interactive environment, you can simply run the model.py file.
 This works only if you have downloaded the necessary libraries and have the same version of libraries as this code.
 
+The final.pt file contains the weights downloaded from the model. These weights can be reproduced to check the accuracy or test the model with a custom held-out dataset.
+
 This folder also includes a report paper which has detailed explanations of the model.
