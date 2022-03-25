@@ -1,5 +1,8 @@
+def project1_model():
+    return ResNet(ResidualBlock, [2, 1, 1, 1]).cuda()
+
 torch.manual_seed(1)
-model=ResNet(ResidualBlock).cuda()
+model=project1_model()
 Loss=torch.nn.CrossEntropyLoss()
 optimizer=torch.optim.Adam(model.parameters(),lr=0.001,weight_decay=1e-5)
 Optimizer = Lookahead(optimizer)
