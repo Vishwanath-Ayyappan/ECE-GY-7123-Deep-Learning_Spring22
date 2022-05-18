@@ -38,6 +38,8 @@ model.to('cuda')
 - [requirement.txt](https://github.com/Vishwanath-Ayyappan/ECE-GY-7123-Deep-Learning_Spring22/blob/main/Final%20Project/requirement.txt) - Contains all necessary libraries to be imported with specification
 
 > Note: `data_try.xlxs` is to be loaded for running the NAR network
+
+
 > Note: ` sell prices.csv`, `calendar.csv`, `sample_submission.csv`, `sales_train_validation.csv` is to be loaded for running the LSTM network
 ## Acknowledgement 
 This project is done as a part of the academic course ECE-GY 7123 Deep Learning taught at NYU Tandon, Spring 22 by Prof. Siddharth Garg and Prof. Arsalan Mosenia.
