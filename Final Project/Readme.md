@@ -36,6 +36,7 @@ model.to('cuda')
 - [nar_with_grid_search.py](https://github.com/Vishwanath-Ayyappan/ECE-GY-7123-Deep-Learning_Spring22/blob/main/Final%20Project/nar_with_grid_search.py) - NAR network with Grid Search Optimization
 - [lstm_final.py](https://github.com/Vishwanath-Ayyappan/ECE-GY-7123-Deep-Learning_Spring22/blob/main/Final%20Project/lstm_final.py) - LSTM Netwrok
 - [requirement.txt](https://github.com/Vishwanath-Ayyappan/ECE-GY-7123-Deep-Learning_Spring22/blob/main/Final%20Project/requirement.txt) - Contains all necessary libraries to be imported with specification
+- [Final_Report.pdf](https://github.com/Vishwanath-Ayyappan/ECE-GY-7123-Deep-Learning_Spring22/blob/main/Final%20Project/Final%20Report.pdf) - Conatins all the results and observations
 
 > Note: `data_try.xlxs` is to be loaded for running the NAR network
 
