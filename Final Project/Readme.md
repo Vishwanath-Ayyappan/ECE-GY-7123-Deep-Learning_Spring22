@@ -45,4 +45,4 @@ model.to('cuda')
 ## Acknowledgement 
 This project is done as a part of the academic course ECE-GY 7123 Deep Learning taught at NYU Tandon, Spring 22 by Prof. Siddharth Garg and Prof. Arsalan Mosenia.
 ###### Authors:  
-ArunKumar Nachimuthu Palanichamy, Shoban Venugopal Palani, Viswanathan Babu Chidambaram Ayyappan
+[ArunKumar Nachimuthu Palanichamy](https://github.com/arunkumar1531), [Shoban Venugopal Palani](https://github.com/Shoban3001), [Viswanathan Babu Chidambaram Ayyappan](https://github.com/Vishwanath-Ayyappan)
