@@ -5,7 +5,7 @@ A Non-linear Autoregressive Neural Network (NARNN) is designed for time series p
 
 ## Dataset
 
-The M5 dataset, made available by Walmart, is used and this dataset was utilized in Kaggle’s M5 2020 time series prediction competition as well [9]. It contains information about the unit sales of different products sold across 10 stores of Walmart, located in three states in the USA: California, Texas and Wisconsin. The dataset has time series data of the products over a period of more than 5 years from 01/29/2011 to 06/19/2016 (1941 data points) given in Figure 2. The dataset is divided into three different categories namely hobbies, household and foods and the unit sales heat map of the three categories is given in Figure 1a, 1b and 1c. The dataset also contains information about other variables like special events (holidays, sporting events, promotion events etc.,) and sale price of each product.
+The M5 dataset, made available by Walmart, is used and this dataset was utilized in Kaggle’s M5 2020 time series prediction competition as well . It contains information about the unit sales of different products sold across 10 stores of Walmart, located in three states in the USA: California, Texas and Wisconsin. The dataset has time series data of the products over a period of more than 5 years from 01/29/2011 to 06/19/2016 (1941 data points). The dataset is divided into three different categories namely hobbies, household and foods. The dataset also contains information about other variables like special events (holidays, sporting events, promotion events etc.,) and sale price of each product.
 ## Installation
 The follwoing libraries area required to run the model
 ```sh
